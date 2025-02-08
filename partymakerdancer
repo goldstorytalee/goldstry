@@ -1,0 +1,9 @@
+{
+    "PartyEnable": false,
+    "PartyLang": ["Russian"],
+    "PartyTime": ["Yekaterinburg"],
+    "PartyLink": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
