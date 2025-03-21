@@ -1,0 +1,9 @@
+{
+    "LHEnable": false,
+    "LHLang": ["Russian"],
+    "LHTime": ["Yekaterinburg"],
+    "LHLinks": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
