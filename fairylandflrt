@@ -1,0 +1,9 @@
+{
+    "FLEnable": false,
+    "FLLang": ["Russian"],
+    "FLTime": ["Yekaterinburg"],
+    "FLLink": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
