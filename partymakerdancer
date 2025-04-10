@@ -1,9 +1,9 @@
 {
-    "PartyEnable": false,
-    "PartyLang": ["Russian"],
-    "PartyTime": ["Yekaterinburg"],
+    "PartyEnable": true,
+    "PartyLang": ["Spanish"],
+    "PartyTime": ["Buenos_Aires"],
     "PartyLink": 
     [ 
-          { "Lang":"Russian", "Links": [""]}
+          { "Lang":"Spanish", "Links": ["https://1wdstt.com/casino/list?open=register&p=mapv"]}
     ]
  }
