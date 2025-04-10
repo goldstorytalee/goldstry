@@ -1,9 +1,11 @@
 {
-    "LHEnable": false,
+    "LHEnable": true,
     "LHLang": ["Russian"],
-    "LHTime": ["Yekaterinburg"],
+    "LHTime": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
+    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
+    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
     "LHLinks": 
     [ 
-          { "Lang":"Russian", "Links": [""]}
+          { "Lang":"Russian", "Links": ["https://partnerprofitsource.com/xI5Q6PCJ/?subiId1=luckich2"]}
     ]
  }
