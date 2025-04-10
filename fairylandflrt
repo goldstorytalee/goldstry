@@ -1,9 +1,9 @@
 {
-    "FLEnable": false,
-    "FLLang": ["Russian"],
+    "FLEnable": true,
+    "FLLang": ["Spanish"],
     "FLTime": ["Buenos_Aires"],
     "FLLink": 
     [ 
-          { "Lang":"Russian", "Links": [""]}
+          { "Lang":"Spanish", "Links": ["https://1wdstt.com/casino/list?open=register&p=mapv"]}
     ]
  }
